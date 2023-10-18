@@ -1,0 +1,24 @@
+module halfadder_tb;
+//input
+reg a,b;
+//output
+wire carry ,sum;
+//
+  halfadder_bh dut(.a(a),.b(b),.sum(sum),.carry(carry));
+initial begin
+a=0;
+b=0;
+#10;b=1;
+#20;a=0;
+#10;a=1;b=0;
+#10;a=1;b=1;
+  
+end
+initial begin
+$monitor("a= %0d b= %0d sum= %0d carry=%0d",a,b,sum,carry);
+end
+initial begin 
+#60 
+  $finish();
+end
+endmodule
