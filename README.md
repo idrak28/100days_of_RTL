@@ -7,3 +7,4 @@
 ### day5 [3to8 Decoder ](https://edaplayground.com/x/N8fK)
 ### day6 [carry look ahead adder ](https://edaplayground.com/x/N5yA)
 ### day7 [full_subtractor_adder](https://edaplayground.com/)
+### day8 [adding_using_xs3](https://edaplayground.com/x/NBUr)
