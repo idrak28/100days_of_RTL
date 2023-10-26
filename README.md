@@ -8,3 +8,4 @@
 ### day6 [carry look ahead adder ](https://edaplayground.com/x/N5yA)
 ### day7 [full_subtractor_adder](https://edaplayground.com/)
 ### day8 [adding_using_xs3](https://edaplayground.com/x/NBUr)
+### day9 [mux 8:1 4:1 2:1](https://edaplayground.com/x/6up8)
