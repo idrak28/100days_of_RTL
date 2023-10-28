@@ -10,3 +10,4 @@
 ### day08 [adding_using_xs3](https://edaplayground.com/x/NBUr)
 ### day09 [mux 8:1 4:1 2:1](https://edaplayground.com/x/6up8)
 ### day10 [3:1 mux using 2:1mux](https://edaplayground.com/x/NDR2)
+### day11 [demux](https://edaplayground.com/x/RMYF)
