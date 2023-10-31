@@ -12,3 +12,4 @@
 ### day10 [3:1 mux using 2:1mux](https://edaplayground.com/x/NDR2)
 ### day11 [demux](https://edaplayground.com/x/RMYF)
 ### day12 [encoder](https://edaplayground.com/x/rFCH)
+### day13 [comparator](https://edaplayground.com/x/JUiv)
