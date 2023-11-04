@@ -16,3 +16,4 @@
 ### day14[even parity generator](https://edaplayground.com/x/NJB5)
 ### day15 [odd parity generato](https://edaplayground.com/x/NJB5)
 ### day16 [d latch](https://edaplayground.com/x/tZtS)
+### day17 [sr latch](https://edaplayground.com/x/KMy5)
