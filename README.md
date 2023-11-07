@@ -19,3 +19,4 @@
 ### day17 [sr latch](https://edaplayground.com/x/KMy5)
  ### day18 [d flipflop](https://edaplayground.com/x/QYji)
  ### day19 [t flipflop](https://edaplayground.com/x/p9Dg)
+ ### day20 [jk flipflop](https://edaplayground.com/x/7xbu)
