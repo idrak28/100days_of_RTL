@@ -22,4 +22,4 @@
  ### day19 [t flipflop](https://edaplayground.com/x/p9Dg)
  ### day20 [jk flipflop](https://edaplayground.com/x/7xbu)
  ### day21 [jonshon counter](https://edaplayground.com/x/HdpL) 
- ### day22 [Mix circuit with D FF]()
+ ### day22 [Mix circuit with D FF](https://github.com/idrak28/100days_of_RTL/tree/main/day_22)
