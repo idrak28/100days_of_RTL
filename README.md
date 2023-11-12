@@ -15,9 +15,11 @@
 ### day13 [comparator](https://edaplayground.com/x/JUiv)
 ### day14[even parity generator](https://edaplayground.com/x/NJB5)
 ### day15 [odd parity generato](https://edaplayground.com/x/NJB5)
+## Sequentional circuit
 ### day16 [d latch](https://edaplayground.com/x/tZtS)
 ### day17 [sr latch](https://edaplayground.com/x/KMy5)
  ### day18 [d flipflop](https://edaplayground.com/x/QYji)
  ### day19 [t flipflop](https://edaplayground.com/x/p9Dg)
  ### day20 [jk flipflop](https://edaplayground.com/x/7xbu)
- ### day21 [jonshon counter](https://edaplayground.com/x/HdpL)
+ ### day21 [jonshon counter](https://edaplayground.com/x/HdpL) 
+ ### day22 [Mix circuit with D FF]()
