@@ -24,4 +24,4 @@
  ### day21 [jonshon counter](https://edaplayground.com/x/HdpL) 
  ### day22 [Mix circuit with D FF](https://github.com/idrak28/100days_of_RTL/tree/main/day_22)
  ### day23 [ring counter](https://edaplayground.com/x/NVQ5)
- ### day24[SISO](https://edaplayground.com/x/imJy)
+ ### day24 [SISO](https://edaplayground.com/x/imJy)
