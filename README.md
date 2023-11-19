@@ -25,4 +25,4 @@
  ### day22 [Mix circuit with D FF](https://github.com/idrak28/100days_of_RTL/tree/main/day_22)
  ### day23 [ring counter](https://edaplayground.com/x/NVQ5)
  ### day24 [SISO](https://edaplayground.com/x/imJy)
-### day25 [101 Sequence dector]()
+### day25 [101 Sequence dector](https://github.com/idrak28/100days_of_RTL/tree/main/day_25)
