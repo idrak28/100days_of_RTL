@@ -1,0 +1,15 @@
+{E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v} {1 {vlog -work work {E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lab2tb
+
+Top level modules:
+	lab2tb
+
+} {} {}} {E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2.v} {1 {vlog -work work {E:\4.2 semester\vlsi_lab\lab_code\assignment2\lab2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lab2
+
+Top level modules:
+	lab2
+
+} {} {}}

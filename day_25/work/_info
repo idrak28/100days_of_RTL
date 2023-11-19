@@ -1,0 +1,82 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\4.2 semester\vlsi_lab\lab_code\assignment1
+vlab2
+Z1 I[[LBCYhmm@KPLUf1zC0l_3
+Z2 V;CXo8k@QJlC`?m]6`gTYn1
+Z3 dE:\4.2 semester\vlsi_lab\lab_code\assignment2
+Z4 w1700367488
+Z5 8E:\4.2 semester\vlsi_lab\lab_code\assignment2\lab2.v
+Z6 FE:\4.2 semester\vlsi_lab\lab_code\assignment2\lab2.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|E:\4.2 semester\vlsi_lab\lab_code\assignment2\lab2.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 0AV6B8IM]A1Y[fCPD4k7f3
+!s85 0
+Z11 !s108 1700367488.299000
+Z12 !s107 E:\4.2 semester\vlsi_lab\lab_code\assignment2\lab2.v|
+!s101 -O0
+vlab2tb
+!i10b 1
+!s100 S@3[Le<92`HZS;nQO=IoG2
+I`hhc_FL2gQV]^^P7QGUeA3
+VG`fDCJ`?WAX;_]iHXN@YI2
+R3
+w1700367489
+Z13 8E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v
+Z14 FE:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1700367489.365000
+!s107 E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v|
+Z15 !s90 -reportprogress|300|-work|work|E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v|
+!s101 -O0
+R9
+vseq_101
+Z16 !s100 A`5lMo=`DKY>e0Ph:f?gY2
+Z17 Ico1oGE3@hcS`LbcBEb^fX2
+Z18 VW42213TmE0B>0:k]n<F6b3
+R3
+Z19 w1700367411
+R5
+R6
+L0 2
+R7
+r1
+31
+R8
+R9
+Z20 !s108 1700367445.253000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vseq_TB
+Z21 IKIE0BjZA:FiZAElkQ?@=R2
+Z22 VCg29jKjCdfFo5>]<GNFjd2
+R3
+Z23 w1700367446
+R13
+R14
+L0 2
+R7
+r1
+31
+R15
+R9
+Z24 nseq_@t@b
+Z25 !s100 hFlL`hEaknY;72CY;<Y4:1
+Z26 !s108 1700367446.408000
+Z27 !s107 E:/4.2 semester/vlsi_lab/lab_code/assignment2/lab2tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
