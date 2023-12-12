@@ -29,4 +29,4 @@
 ### day25 [101 Sequence dector(overlapping)](https://github.com/idrak28/100days_of_RTL/tree/main/day_25)
 ### day26 [2bit counter using moore machine](https://github.com/idrak28/100days_of_RTL/tree/main/day_26)
 
-### day27 [SIPO] (https://edaplayground.com/x/NzTS)
+### day27 [SIPO](https://edaplayground.com/x/NzTS)
