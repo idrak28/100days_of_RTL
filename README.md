@@ -30,3 +30,6 @@
 ### day26 [2bit counter using moore machine](https://github.com/idrak28/100days_of_RTL/tree/main/day_26)
 
 ### day27 [SIPO](https://edaplayground.com/x/NzTS)
+
+## System Verilog 
+### day28 [FIFO](https://edaplayground.com/x/rwcr)
