@@ -32,4 +32,4 @@
 ### day27 [SIPO](https://edaplayground.com/x/NzTS)
 
 ## System Verilog 
-### day28 [FIFO](https://edaplayground.com/x/rwcr)
+### dayxx [FIFO](https://edaplayground.com/x/rwcr)
