@@ -32,5 +32,3 @@
 ### day27 [SIPO](https://edaplayground.com/x/NzTS)
 ### day28 [BCD counter](https://edaplayground.com/x/bJsH)
 
-## System Verilog 
-### dayxx [FIFO](https://edaplayground.com/x/rwcr)
