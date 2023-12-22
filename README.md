@@ -32,3 +32,4 @@
 ### day28 [BCD counter](https://edaplayground.com/x/bJsH)
 ### day29 [sequence_counter](https://edaplayground.com/x/HNit)
 ### day30 [Universal_Binary_Counter](https://edaplayground.com/x/XGMg)
+### day31 [FSM_Onehot] (https://edaplayground.com/x/GanU)
