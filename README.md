@@ -34,3 +34,4 @@
 ### day30 [Universal_Binary_Counter](https://edaplayground.com/x/XGMg)
 ### day31 [FSM_Onehot](https://edaplayground.com/x/GanU)
 ### day32 [detector](https://edaplayground.com/x/Ktrm)
+### day33[4-Bit BCD Adder](https://edaplayground.com/x/awNi)
